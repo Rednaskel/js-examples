@@ -1,0 +1,10 @@
+var express = require('express');
+var app = express();
+
+app.get('/', function ( reg, res) {
+	res.send('Hello world');
+})
+
+app.listen(3000, function () {
+	console.log('Example app on port 3000');
+})

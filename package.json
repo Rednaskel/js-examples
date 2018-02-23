@@ -1,0 +1,22 @@
+{
+  "name": "js-examples",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "Javascript examples and features",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rednaskel/js-examples.git"
+  },
+  "author": "Aleksander Kosinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rednaskel/js-examples/issues"
+  },
+  "homepage": "https://github.com/Rednaskel/js-examples#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
